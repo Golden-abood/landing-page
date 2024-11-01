@@ -1,0 +1,175 @@
+{
+    "download": {
+        "label": "Download Now",
+        "android": "Android",
+        "direct": "Direct"
+    },
+    "head": {
+        "title": "Wareed Application",
+        "content": "We strive to enable patients to book their medical appointments easily and to improve direct communication with doctors and healthcare providers. We strive to achieve a comfortable and reliable medical experience, and to improve the overall quality of healthcare."
+    },
+    "navLinks": {
+        "linkOne": "Services",
+        "linkTwo": "Features",
+        "linkThree": "Contact us",
+        "linkFour": "Join us as a doctor"
+    },
+    "aboutSection": {
+        "one": {
+            "title": "Mission Our message :",
+            "text": "Stemming from our profound sense of duty towards our society through our experience and understanding of the smallest details of the medical process, a multi-specialty team was gathered to raise the standard for the well-being and comfort of society, and because we care about you, we decided; Follow up on all details of the medical trip."
+        },
+        "two": {
+            "title": "Vision Our vision :",
+            "text": "Automating the medical process through our persistent endeavor to confront the current patient and its problems and make digital transformation in the medical process applicable."
+        },
+        "three": {
+            "title": "Target Our goal :",
+            "text": "It is to make the treatment journey smoother and easier through better communication between the user (patient) and all parties of the medical process."
+        }
+    },
+    "servicesSection": {
+        "title": "Services",
+        "text": "Download the application and enjoy many advantages that will save you time and effort, we mention them for you",
+        "services": {
+            "one": {
+                "title": "Book an appointment :",
+                "text": "You can now book an appointment with one click on the Book an Appointment button. You will then see a presentation interface containing the doctor’s working days and hours."
+            },
+            "two": {
+                "title": "Advanced search :",
+                "text": "Do you want to search for a doctor, laboratory, or pharmacy...? Warid found the solution for you through the search service within the filters Quickly and seamlessly."
+            },
+            "three": {
+                "title": "Smart scheduling :",
+                "text": ": You do not have to worry about waiting with Wareed, because we provide you with an electronic queue tracking service where you can wait for your appointment either at home or somewhere nearby, and know the number of patients in the appointments ahead of you."
+            },
+            "four": {
+                "title": "Review appointment :",
+                "text": "If you need to see your doctor, we have the solution by booking a review appointment with just one button."
+            }
+        }
+    },
+    "Features": {
+        "one": {
+            "title": "Medical news and articles :",
+            "text": "If you are interested in the latest medical news and articles. With us, you will receive many articles reliably in the world of medicine."
+        },
+        "two": {
+            "title": "Pinpoint :",
+            "text": "What are you looking for? Wareed will be your guide to any medical location you want to search for, through the point-setting service for any location on the map"
+        },
+        "three": {
+            "title": "Notifications and SMS messages :",
+            "text": "Many of us suffer from the problem of waiting for long hours. And because we feel you; Wareed found the solution by sending notifications and SMS messages to let you know when your appointment is approaching, in addition to the number of appointments ahead of you."
+        }
+    },
+    "contactUs": {
+        "title": "Connect with us",
+        "text": "We are here to help you and listen to your needs and concerns. Whether you would like to ask a question, make an inquiry or even provide feedback, our professional team is friendly and dedicated at your service.",
+        "send": "Send",
+        "name": "name",
+        "email": "email",
+        "message": "message",
+        "text-2": "Your request will be answered within 48 working hours. All fields are required *"
+    },
+    "heroSectionTitle": "Wareed ... A platform for booking and managing electronic medical appointments in clinics.",
+    "FeaturesTitle": "Features",
+    "screenshotsTitle": "Screenshots from wareed",
+    "delete": {
+        "phone": "phone number",
+        "message": "Reason for deletion",
+        "btn-delete": "Delete account"
+    },
+    "modal": {
+        "text": "Enter the verification code",
+        "delete": "Delete",
+        "cancel": "cancel"
+    },
+    "privacy": {
+        "title": "سياسة الخصوصية",
+        "title-2": "سياسة الخصوصية تطبيق وريد",
+        "preface": "تمهيد :",
+        "description-line-1": "شركة \"وريد \" ملتزمة بحماية خصوصية بيانات كل مستخدمين موقعنا",
+        "link": "https://www.wareed-med.com/ ",
+        "description-line-2": "أو تطبيق الهاتف المحمول الخاص بنا . يرجى قراءة سياسة الخصوصية التالية و التي توضح كيف نستعمل ونحمي معلوماتك. سنكون المتحكمين بالبيانات التي تقدمها لنا .",
+        "titles": {
+            "one": "بيانات المتصل: ",
+            "two": "كيف نقوم بجمع معلوماتك:",
+            "three": "المعلومات التي نجمعها عنك:",
+            "four": "استخدام المعلومات الخاصة بك :",
+            "five": "التسويق المباشر: ",
+            "six": "الاحتفاظ بمعلوماتك :",
+            "seven": "الكشف عن معلوماتك :",
+            "eight": "حقوقك:",
+            "nine": "التغييرات في سياسة الخصوصية :",
+            "ten": "الشكاوى :"
+        },
+        "descriptions": {
+            "one": {
+                "lineOne": "إذا كان لديك أي استفسارات أو طلبات بخصوص سياسة الخصوصية هذه أو كيف نتعامل مع بياناتك بشكل عام، يرجى الاتصال بنا باستخدام التفاصيل التالية عبر الهاتف  على الرقم : 0941111416",
+                "lineTwo": "أو عن طريق الايميل : infowareed-med.com"
+            },
+            "two": {
+                "lineOne": " نقوم بجمع معلوماتك الشخصية عندما تتفاعل معنا أو تستخدم خدماتنا، مثلا عندما تستخدم تطبيقنا لحجز الموعد الطبي. وننظر أيضا في كيفية استخدام الزوار لمواقعنا، لمساعدتنا على تحسين خدماتنا وتحسين تجربة العملاء. ",
+                "lineTwo": " نقوم بجمع المعلومات: ",
+                "lineThree": "عند إنشاء حساب معنا أو تغيير إعدادات حسابك.",
+                "lineFour": "عند إرسال طلب الحجز الينا وأثناء عملية الطلب ( بما ذلك انشاء في وإتمام الموعد). عند الاتصال بنا مباشرة عبر البريد الإلكتروني أو الهاتف أو الرسالة أو عبر ميزة تواصل معنا."
+            },
+            "three": {
+                "lineOne": "كجزء من التزامنا بخصوصية عملائنا",
+                "lineTwo": "وزائري تطبيقنا  بشكل عام ، نريد أن نكون واضحين بشأن أنواع المعلومات التي سنجمعها منك. يطلب منك تقديم معلومات عن نفسك بما في ذلك اسمك و ميلادك و وتفاصيل الاتصال و موقعك",
+                "lineThree": "ونجمع أيضا معلومات حول استخدامك للعنوانين ومعلومات عنك من أي رسائل ترسلها الينا أو عند الاتصال بنا أو تزويدنا بتعليقات، بما في ذلك عبر البريد الالكتروني أو الهاتف.نقوم بجمع معلومات فنية من جهازك المحمول او جهاز الحاسب الخاص بك، مثل نظام التشغيل الخاص به، والجهاز ونوعه ونوع الاتصال وعنوان IP الذي تدخل منه إلى مواقعنا."
+            },
+            "four": {
+                "lineOne": "سنقوم بمعالجة البيانات التي نجمعها عنك فقط إذا كان هناك سبب للقيام بذلك، وإذا كان هذا السبب مسموحاً به بموجب المرسوم التشريعي رقم 20 لعام 2020",
+                "lineTwo": "ضمن قانون تنظيم التواصل على الشبكة ومكافحة الجريمة المعلوماتية. سيكون لدينا أساس قانوني لمعالجة المعلومات الخاصة بك؛                 ",
+                "lineThree": "إذا كنا بحاجة إلى معالجة المعلومات الخاصة بك من أجل تزويدك بالخدمة التي طلبتها أو للدخول في عقد فلدينا موافقتك ولدينا سبب مبرر لمعالجة بياناتك، أو نحن ملزمون قانونا بالقيام بذلك.",
+                "lineFour": "حيثما نحتاج لتزويدك بالخدمة التي طلبتها أو للدخول في عقد فإننا نستخدم معلوماتك لتمكيننا من تزويدك بالوصول إلى الأجزاء ذات الصلة بالمنصة. لتوفير الخدمات التي طلبتها",
+                "lineFive": "للاتصال بك عند الضرورة فيما يتعلق بخدماتنا، مثل حل المشكلات التي قد تواجهنا في طلبك. ",
+                "lineSix": "نقوم أيضاً بمعالجة بياناتك حيث يكون لدينا سبب مبرر للقيام بذلك، على سبيل المثال، تخصيص خدماتنا بما في ذلك معالجة البيانات لجعل الأمر أسهل وأسرع بالنسبة لك لتقديم الطلبات",
+                "lineSeven": "لذلك أدرجنا هذه الأسباب أدناه :",
+                "lineEight": "_ تحسين فعالية وجودة الخدمة التي يتوقعها عملاؤنا منا في المستقبل",
+                "lineNine": " _ تخصيص المحتوى الذي نعرضه لك، على سبيل المثال، حتى نتمكن من عرض الأطباء و مقدمي الخدمة الطبية الموجودة في منطقتك أو التأكد أنك ترى الإعلان الأكثر صلة بك استنادًا إلى الخصائص المحددة بواسطتنا                ",
+                "lineTen": "_ لتمكين فريق دعم العملاء لدينا من مساعدتك في أي استفسارات أو شكاوى بأكثر الطرق فعالية ممكنة ولتقديم تجربة إيجابية للعملاء. للاتصال بك، والاطلاع على آرائك وملاحظاتك على خدماتنا وإبلاغك إذا كانت هناك أية تغييرات أو تطورات مهمة على المواقع أو خدماتنا، بما في ذلك إعلامك بأن خدماتنا تعمل في منطقة جديدة، في حال كنت قد طلبت منا فعل ذلك. لإرسال معلومات إليك عن منتجاتنا وخدماتنا وعروضنا الترويجية. لتحليل نشاطك على المواقع حتى نتمكن من إدارة ودعم وتحسين وتطوير أعمالنا لأغراض إحصائية وتحليلية ولمساعدتنا على منع الاحتيال",
+                "line11": "لفرض شروطنا التعاقدية معك أو أي اتفاقية أخرى، ولممارسة أو الدفاع عن المطالبات القانونية وحماية حقوق \"وريد \" أو مزودي الخدمة الطبية الشركاء معنا أو غيرهم، بما في ذلك منع الاحتيال.",
+                "line12": "_ إذا قدمت تعليقات بشأن الموقع والخدمات، فقد نستخدم هذه التعليقات في أي مواد تسويقية أو إعلانية. سوف نحدد هويتك لهذا الغرض فقط باسمك الأول والمدينة التي تعيش فيها في حال اخترت تلقي إعلانات من خلال تطبيق الهاتف المحمول الخاص بنا فسنرسل إليك إعلانات متعلقة بالخدمات التي طلبتها منا ومعلومات حول خدماتنا وعروضنا.                ",
+                "line13": "سنقوم أيضا بتحليل البيانات المتعلقة باستخدامك لخدماتنا من بيانات موقعك لإنشاء ملفات تعريفية متعلقة بك وإليك. ",
+                "line14": "هذا يعني أننا قد نضع بعض الافتراضات حول ما قد تهتم به ونستخدمه؛ لنرسل إليك المزيد من الاتصالات التسويقية المصممة خصيصاً إليك، أو لإعلامك بالعروض الخاصة أو الخدمات التي نعتقد أنك قد تكون مهتمًا بها. يشار إلى هذا النشاط باسم \" التنميط \" . لديك حقوق معينة فيما يتعلق بهذا النوع من المعالجة. الرجاء مراجعة قسم \"حقوقك أدناه لمزيد من المعلومات.",
+                "line15": "عندما نكون ملزمين قانونيا بالقيام بذلك، يجوز لنا استخدام معلوماتك من أجل : ",
+                "line16": "- الامتثال لأي التزام قانوني أو شروط تنظيمية نتعرض لها. "
+            },
+            "five": {
+                "lineOne": "في حال منحنا موافقتك أو عندما يكون لدينا سبب مبرر للقيام بذلك، سنستخدم معلوماتك لإعلامك بمنتجاتنا وخدماتنا الأخرى التي قد تهمك عن طريق البريد الإلكتروني أو الهواتف. يمكنك التحكم في تفضيلات التسويق عبر البريد الإلكتروني الخاص بك من خلال ",
+                "lineTwo": "- تطبيق الهاتف المحمول ",
+                "lineThree": "و موقعنا على شبكة الإنترنت."
+            },
+            "six": {
+                "lineOne": "لن نحتفظ بمعلوماتك لفترة أطول مما نعتقد أنها ضرورية. سيتم الاحتفاظ بالمعلومات التي نجمعها ما دامت هناك حاجة للوفاء بالأغراض الموضحة في قسم \"استخدام المعلومات الخاصة بك \"  أعلاه بما يتماشى مع مصلحتنا المشروعة أو لفترة تشترطها على وجه التحديد اللوائح أو القوانين المعمول بها، مثل الحفاظ على المعلومات لأغراض التقارير التنظيمية.",
+                "lineTwo": "عند تحديد فترات الاستبقاء ذات الصلة، سنأخذ في الاعتبار العوامل التالية:",
+                "lineThree": "- التزاماتنا وحقوقنا التعاقدية فيما يتعلق بالمعلومات المعنية. - التزامات قانونية بموجب القانون المعمول به بالاحتفاظ بالبيانات لفترة زمنية معينة.",
+                "lineFour": "- المنازعات المحتملة.",
+                "lineFive": "إرشادات صادرة عن الهيئة الوطنية لخدمات الشبكة والهيئات الحكومية ذات الصلة.",
+                "lineSix": "بخلاف ذلك نقوم بمسح معلوماتك بشكل آمن حيث لم نعد نحتاج الى معلوماتك للأغراض التي تم جمعها."
+            },
+            "seven": {
+                "lineOne": "_ ستنقل المعلومات التي نجمعها عنك ونخزنها على مخدماتنا الموجودة داخل أراضي الجمهورية العربية السورية،",
+                "lineTwo": "ونحن حريصون وشفافون للغاية بشأن من تتم معه مشاركة معلوماتك. ",
+                "lineThree": "_ ستتخذ وريد جميع الخطوات اللازمة بشكل معقول لضمان التعامل مع بياناتك بشكل آمن ووفقا لسياسة الخصوصية هذه عند نقلها الى جهات خارجية بحيث نقوم باستخدام تقنيات متقدمة جداً للحفاظ على خصوصية بياناتك ومنعها من الضياع أو السرقة أو القرصنة .              ",
+                "lineFour": "_ إذا دخل نشاطنا التجاري في مشروع مشترك مع كيان تجاري آخر، أو تم شراؤه أو بيعه مع كيان تجاري آخر، فقد يتم الكشف عن معلوماتك أو نقلها الى الشركة المستهدفة أو شركاء أعمالنا الجدد أو مالكيها أو مستشاريهم. قد نشارك أيضا معلوماتك - إذا كنا ملزمين بالكشف عن معلوماتك أو مشاركتها من أجل الامتثال ( و/ أو عندما نعتقد أننا ملزمون بالامتثال لأي التزام قانوني أو أمر قضائي أو شرط تنظيمي. يتضمن ذلك تبادل المعلومات مع الشركات الأخرى والمؤسسات الأخرى لأغراض الحماية من الاحتيال و الوقاية منه. ",
+                "lineFive": "- من أجل إنفاذ شروطنا التعاقدية معك و أي اتفاقية أخرى. - لحماية حقوق \" وريد \" أو مزودي الخدمة الشركاء أو غيرهم، بما في ذلك منع الاحتيال. - ومع الأطراف الثالثة التي نعتبرها ضرورية بشكل معقول من أجل الجريمة، على سبيل المثال الضابطة العدلية. - تعتبر معلومات الحساب البنكي الخاص بك سرية، حيث ليس لدينا الصلاحية بالحصول على أي معلومات عن حسابك البنكي، ويتم الدفع بطريقة مباشرة وآمنة عبر شركائنا المعتمدين من موقع أو تطبيق البنك أو شركات الاتصالات. وتعتبر عملية الدفع الالكتروني عملية                ",
+                "lineSix": "منع آمنة تخضع بالكامل لمراقبة الجهات المصدرة للدفعة."
+            },
+            "eight": {
+                "lineOne": "بموجب قانون تنظيم التواصل على الشبكة ومكافحة الجريمة المعلوماتية، قد يكون لديك عدد من الحقوق المتعلقة بالبيانات التي نحتفظ بها عنك. إذا كنت ترغب في ممارسة أي من هذه الحقوق، يرجى الاتصال بمسؤول حماية البيانات لدينا باستخدام تفاصيل الاتصال المذكورة أعلاه للحصول على معلومات إضافية حول حقوقك، يرجى مراجعة المرسوم التشريعي رقم 20 لعام 2020 والمتضمن قانون تنظيم التواصل على الشبكة ومكافحة الجريمة المعلوماتية "
+            },
+            "nine": {
+                "lineOne": "لدينا سننشر أي تغييرات تطراً على سياسة الخصوصية الخاصة بنا على مواقعنا، عند الاقتضاء، سوف نخبرك بالتغييرات على سبيل المثال عن طريق البريد الالكتروني، أو باقي وسائل التواصل الاجتماعي وعبر خدمة العملاء.                "
+            },
+            "ten": {
+                "lineOne": "إذا لم تكن راضيا عن ردنا على أي شكوى أو تعتقد أن معالجتنا لمعلوماتك لا تتوافق مع قانون تنظيم التواصل على الشبكة ومكافحة الجريمة المعلوماتية، يمكنك تقديم شكوى الى مكتب امن المعلومات باستخدام التفاصيل التالية: رقم الهاتف: 0941111416 ",
+                "lineTwo": "عنوان البريد الإلكتروني : infowareed-med.com"
+            }
+        }
+    }
+}

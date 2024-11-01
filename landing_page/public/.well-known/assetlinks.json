@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wareed.app",
+      "sha256_cert_fingerprints": [
+        "7D:71:90:3F:95:39:78:E4:B0:92:E9:9C:8B:B5:E5:9D:D8:D6:8A:70:8B:F6:4A:F9:5A:CA:61:45:77:FF:13:33",
+        "3B:D9:1C:62:AF:4D:11:24:C7:04:25:55:8B:C5:39:F8:22:D7:AB:1F:83:0E:4D:45:8C:B2:C4:CC:FE:5A:D7:88"
+      ]
+    }
+  }
+]

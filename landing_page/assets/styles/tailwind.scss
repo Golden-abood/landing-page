@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100;200;400;500;700;800;900&display=swap');
+
+.activeCard {
+  @apply bg-primary text-[#fff]  lg:translate-y-[-50px];
+}
+.title-section {
+  @apply font-bold text-3xl relative before:bg-secondary;
+  // before:bg-secondary before:absolute before:left-[50%] before:bottom-[35%]
+  //  before:md:bottom-[30%]
+  //  before:translate-x-[-50%]
+  // before:h-[8px] before:w-[30px]
+  // before:rounded-[20px];
+}
+.swiper-wrapper {
+  @apply pb-16;
+}
+.title-section::before {
+  content: '';
+  position: absolute;
+  width: 30px;
+  height: 8px;
+  bottom: -0.75rem;
+  left: calc(50% - 15px);
+  border-radius: 20px;
+}
+
+.title-section-2 {
+  @apply font-bold text-3xl  pb-10 before:bg-secondary before:absolute before:start-[45%] before:md:start-[48%]  before:lg:start-[48%] before:xl:start-[10%] before:top-[30%] xl:before:top-[25%]  before:translate-x-[-50%] before:h-[8px] before:w-[30px] before:rounded-[20px];
+}
+.title-section-2-en {
+  @apply font-bold text-3xl  pb-10 before:bg-secondary before:absolute before:start-[50%] before:top-[30%] xl:before:top-[25%]  before:translate-x-[-50%] before:h-[8px] before:w-[30px] before:rounded-[20px];
+}
+
+html {
+  font-size: 16px;
+}
